@@ -1,0 +1,11 @@
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.Form_Login.resources
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.Properties.Resources.resources
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.csproj.GenerateResource.cache
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.csproj.CoreCompileInputs.cache
+F:\source\repos\mhaetc\mhaetc\bin\Debug\mhaetc.exe.config
+F:\source\repos\mhaetc\mhaetc\bin\Debug\mhaetc.exe
+F:\source\repos\mhaetc\mhaetc\bin\Debug\mhaetc.pdb
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.exe
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.pdb
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.Main.resources
+F:\source\repos\mhaetc\mhaetc\obj\Debug\mhaetc.csprojAssemblyReference.cache
