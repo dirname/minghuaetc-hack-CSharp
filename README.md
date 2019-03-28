@@ -20,4 +20,8 @@ RestSharp (请遵守RestSharp的开源协议)
 
 ## 预览图
 
-![image](view.png)
+![image](1.png)
+
+![image](2.png)
+
+![image](3.png)
