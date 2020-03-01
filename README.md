@@ -1,6 +1,9 @@
 # minghuaetc-hack-CSharp
 C# 名华慕课刷课时工具 Android App 协议 直接使用Visual Studio打开
 
+## 该仓库的版本已过时 新仓库
+[minghuaetc-hack-Go](https://github.com/dirname/minghuaetc-hack-Go)
+
 ## 更新说明
 
 + 增加学校选择和登陆
